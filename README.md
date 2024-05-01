@@ -4,7 +4,7 @@
 ## Sobre mim
 
 <p align="left"> 
- Olá, Me chamo Lucas de Andrade, sou um profissional especializado em desenvolvimento Front-End com experiência na criação de aplicações web, adquirida por meio de projetos pessoais e estudos contínuos, tenho bastante interesse pelo desenvolvimento Back-End como Nodejs e Java. Atualmente estou estudando Ciências da Computação (Faculdade Descomplica) com foco total me tornar em desenvolvedor full-stack. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+ Olá, Me chamo Lucas de Andrade, sou um profissional especializado em desenvolvimento Front-End com experiência na criação de aplicações web, adquirida por meio de projetos pessoais e estudos contínuos, tenho bastante interesse pelo desenvolvimento Back-End como Nodejs e Java. Atualmente estou estudando Ciências da Computação (Faculdade Descomplica) com foco total me tornar em desenvolvedor full-stack. Eu estudo e me atualizo na área da tecnologia constantemente, para me tornar um profissional melhor a cada dia e utilizar meus conhecimentos para criar soluções inovadoras.
 </p>
 
 ## Minhas Skills
