@@ -45,6 +45,8 @@
 
 
 ## Onde me encontrar
- <a href="https://www.linkedin.com/in/lucasdeandradealmeida" target="_blank">[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasdeandradealmeida) ></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.lucasdeandrade@hotmail.com)](mailto:contato.lucasdeandrade@hotmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/lucasdeandradealmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto:contato.lucasdeandrade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
