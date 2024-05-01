@@ -9,7 +9,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens**
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,6 +32,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
+
+**Em aprendizado**
+
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whitee)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
